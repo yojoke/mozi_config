@@ -5,7 +5,7 @@
     "banner": {
       "enabled": true,
       "title": "تبلیغ ویژه",
-      "image": "https://example.com/banner.jpg",
+      "image": "https://raw.githubusercontent.com/yojoke/mozi_config/main/ads/banner.png",
       "url": "https://example.com",
       "label": "تبلیغات"
     },
