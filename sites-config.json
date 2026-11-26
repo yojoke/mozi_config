@@ -9,7 +9,7 @@
       "url": "https://example.com",
       "label": "تبلیغات"
     },
-    "iranianCard": {
+    "mozi_card": {
       "enabled": true,
       "title": "سایت پیشنهادی",
       "image": "https://raw.githubusercontent.com/yojoke/mozi_config/main/ads/mozi_card.png",
