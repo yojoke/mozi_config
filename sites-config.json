@@ -1,0 +1,20 @@
+
+{
+  "version": 1,
+  "ads": {
+    "banner": {
+      "enabled": true,
+      "title": "تبلیغ ویژه",
+      "image": "https://example.com/banner.jpg",
+      "url": "https://example.com",
+      "label": "تبلیغات"
+    },
+    "iranianCard": {
+      "enabled": true,
+      "title": "سایت پیشنهادی",
+      "image": "https://example.com/icon.png",
+      "url": "https://example.com",
+      "label": "تبلیغ"
+    }
+  }
+}
