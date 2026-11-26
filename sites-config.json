@@ -12,7 +12,7 @@
     "iranianCard": {
       "enabled": true,
       "title": "سایت پیشنهادی",
-      "image": "https://github.com/yojoke/mozi_config/blob/main/ads/iranian-card.png",
+      "image": "https://raw.githubusercontent.com/yojoke/mozi_config/main/ads/iranian-card.png",
       "url": "https://example.com",
       "label": "تبلیغ"
     }
